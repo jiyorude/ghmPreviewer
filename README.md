@@ -1,3 +1,3 @@
 # ghmPreviewer
- GitHub Markdown Previewer built in React
+ GitHub Markdown Previewer 
  Work In Progress.
