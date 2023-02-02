@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "GHM Previewer",
+    "short_name": "GHMP",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
