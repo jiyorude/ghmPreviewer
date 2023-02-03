@@ -27,7 +27,7 @@ header {
   flex-direction: column;
   background-color: papayawhip;
   font-family: Georgia;
-  font-size: 14px;
+  font-size: 10px;
   font-weight: 700;
   align-content: center;
   justify-content: center;
@@ -69,6 +69,7 @@ textarea {
   height: 97vh;
   margin-top: 3vh;
   background-color: #f2e9e2;
+  overflow-y:scroll;
 }
 
 #editortext {
